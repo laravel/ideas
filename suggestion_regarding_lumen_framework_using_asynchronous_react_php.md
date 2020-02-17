@@ -1,6 +1,6 @@
 #Suggestion regarding lumen framework using asynchronous react php
 
-It woukd be set if you implement the event loop in the lumen framework. Kindly find below two links 
+It woukd be best if you implement the single threaded event loop in the lumen framework. Kindly find below two links 
 
 #Routes implementation
 https://github.com/hassansin/expressphp-example
